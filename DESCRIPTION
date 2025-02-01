@@ -1,7 +1,7 @@
 Package: RegrCoeffsExplorer
-Title: Efficient Visualization of Regression Coefficients for lm(),
-        glm(), and glmnet() Objects
-Version: 1.1.0
+Title: Efficient Visualization of Regression Coefficients for Lm(),
+        Glm(), and Glmnet() Objects
+Version: 1.2.0
 Imports: dplyr, ggpubr, gridExtra, glmnet, ggplot2, magrittr,
         grDevices, rlang, stats
 Authors@R: c(
@@ -23,10 +23,9 @@ Encoding: UTF-8
 RoxygenNote: 7.3.2
 Suggests: faraway, knitr, MASS, psych, rmarkdown, selectiveInference,
         survival
-VignetteBuilder: knitr
 URL: https://vadimtyuryaev.github.io/RegrCoeffsExplorer/
 NeedsCompilation: no
-Packaged: 2024-11-13 20:38:35 UTC; vadim
+Packaged: 2025-02-01 19:05:53 UTC; vadim
 Author: Vadim Tyuryaev [aut, cre] (<https://orcid.org/0009-0008-1361-6265>),
   Aleksandr Tsybakin [aut],
   Jane Heffernan [aut],
@@ -34,4 +33,4 @@ Author: Vadim Tyuryaev [aut, cre] (<https://orcid.org/0009-0008-1361-6265>),
   Kevin McGregor [aut]
 Maintainer: Vadim Tyuryaev <vadim.tyuryaev@gmail.com>
 Repository: CRAN
-Date/Publication: 2024-11-14 13:50:49 UTC
+Date/Publication: 2025-02-01 23:40:10 UTC
